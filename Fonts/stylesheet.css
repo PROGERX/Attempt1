@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Caladea';
+    src: url('Caladea-BoldItalic.eot');
+    src: url('Caladea-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Caladea-BoldItalic.woff') format('woff'),
+        url('Caladea-BoldItalic.ttf') format('truetype'),
+        url('Caladea-BoldItalic.svg#Caladea-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
